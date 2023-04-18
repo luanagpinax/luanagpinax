@@ -3,6 +3,7 @@
 <h3 align="center">a wordpress developer who <3 technology and design</h3>
 <img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="luanagpinax" />
 <br>
+  
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://luanagpina.com/](https://luanagpina.com/)
