@@ -22,7 +22,6 @@
 <br>
 <p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=luanagpinax&show_icons=true&locale=en" alt="luanagpinax" /><img align="right"  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=luanagpinax&" alt="luanagpinax" /></p> 
 
-## Snake Game
-
 https://github.com/luanagpinax/luanagpinax/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/luanagpinax/luanagpinax/blob/output/github-contribution-grid-snake.gif)
+
+  ![snake gif](https://github.com/luanagpinax/luanagpinax/blob/output/github-contribution-grid-snake.svg)
