@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **dev@luanagpina.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/luanagpina/](https://www.linkedin.com/in/luanagpina/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/luanagpina/](https://www.linkedin.com/in/luanagpina/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
