@@ -6,11 +6,11 @@
   
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://luanagpina.com/](https://luanagpina.com/)
+- 👨‍💻 My recent projects are available at: [https://luanagpina.com/](https://luanagpina.com/)
 
 - 📫 How to reach me: **dev@luanagpina.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luanagpina/](https://www.linkedin.com/in/luanagpina/)
+- 📄 Know about my experiences at: [https://www.linkedin.com/in/luanagpina/](https://www.linkedin.com/in/luanagpina/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
