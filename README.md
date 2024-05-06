@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/GrossCornyAustraliankestrel-max-1mb.gif)](https://luanagpina.com/)
 <h1 align="center">Hi 👋, I'm Luana Pina</h1>
-<h3 align="center">a wordpress developer who <3 technology and design</h3>
+<h3 align="center">a software developer who <3 technology and design</h3>
 <img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="luanagpinax" />
 <br>
   
